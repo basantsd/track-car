@@ -1,0 +1,8 @@
+{
+  "name": "track-car",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "040b9eaa"
+}
